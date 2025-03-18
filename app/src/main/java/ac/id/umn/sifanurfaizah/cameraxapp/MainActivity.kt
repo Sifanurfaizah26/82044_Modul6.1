@@ -214,6 +214,7 @@ class MainActivity : AppCompatActivity() {
 
             imageCapture = ImageCapture.Builder().build()
 
+
             /*
             val imageAnalyzer = ImageAnalysis.Builder().build()
                 .also {
